@@ -1,0 +1,13 @@
+bin/
+obj/
+*.exe
+*.so
+*.dll
+*.dylib
+*.log
+!.env
+build/
+vendor/
+.DS_Store
+.idea/
+*.git
